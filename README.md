@@ -6,4 +6,5 @@ User clicks on the 'Activate" button - the popup appears.
 User clicks on the 'Close" button - the popup disappears.
 
 <img src="img/popUp1.png" alt="HowItLooksLike">
+<img src="img/popUp2.png" alt="HowItLooksLike">
 
